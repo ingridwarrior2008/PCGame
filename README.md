@@ -25,7 +25,7 @@ NOTE: Both servers .bat should run first before running the game client.
 
 ## Class Diagram
 
-![Untitled Diagram(3)(2)(1)](https://github.com/ingridwarrior2008/PuzzleCrushGame/assets/1762283/a0e173ba-9f4a-483e-833b-2840d74b9e4c)
+![266845137-a0e173ba-9f4a-483e-833b-2840d74b9e4c](https://github.com/ingridwarrior2008/PCGame/assets/1762283/9d073ca7-0dab-46a3-a26f-899a4dad33bb)
 
 
 # Debug
@@ -48,13 +48,14 @@ I added the following cheats
 
 In this data table, you can add the colors of the pyramids grid. The color will be chosen randomly. 
 
-![image](https://github.com/ingridwarrior2008/PuzzleCrushGame/assets/1762283/e5e88c2e-e1e4-4bad-a3a0-2a948259ad68)
+![image](https://github.com/ingridwarrior2008/PCGame/assets/1762283/9a7396b4-ad25-4459-a0fe-d532c205b4e0)
+
 
 ## DT_PyramidDefinition
 
 The data table for the definition of the pyramid system. you can add the list of the color of the previous definition the grid class to spawn and the number of rows in the pyramid.
 
-![image](https://github.com/ingridwarrior2008/PuzzleCrushGame/assets/1762283/be00dca5-f451-44e8-ad0b-96d2970b0548)
+![image](https://github.com/ingridwarrior2008/PCGame/assets/1762283/58d55a86-2d2c-4ae8-a876-3d6bef0276ef)
 
 
 # Multiple pyramid system
