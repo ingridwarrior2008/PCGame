@@ -11,7 +11,7 @@ Unreal Engine 5.2.1
 ### PIE 
 - The default map is GameMap, make sure you are in that map and press play with net mode StandAlone/Client/ListenerServer (The game should work in those scenarios)
 
-### Run a game instance in comman line
+### Run a game instance in command line
 You can use the .bat files in the root of the project.
 The first time you run those .bat, they will ask for the Unreal engine source path. Normally the path location is `C:\Program Files\Epic Games\UE_5.2`. If you need to change the path location or if you accidentally mistype it. You can simply modify the `UEPath.txt` file that will be created after you type the path.
 
