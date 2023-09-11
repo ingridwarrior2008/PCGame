@@ -63,7 +63,7 @@ private:
 	UPROPERTY(Transient)
 	TArray<APCGPyramidSystemActor*> PyramidSystemActorArray;
 
-	/** the remaining time timer handle . */
+	/** The remaining time timer handle . */
 	UPROPERTY(Transient)
 	FTimerHandle RemainingTimeTimerHandle;
 

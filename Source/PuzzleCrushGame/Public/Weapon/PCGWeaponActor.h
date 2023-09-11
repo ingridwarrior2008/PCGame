@@ -28,7 +28,7 @@ protected:
 
 	/**
 	 * Call on Server to spawn the projectile.
-	 * @param PlayerCameraRotation the player camera rotation to take the direct to spawn the projectile.
+	 * @param PlayerCameraRotation the player camera rotation to take the direction to spawn the projectile.
 	 */
 	UFUNCTION(Server, Reliable, WithValidation)
 	void Server_SpawnProjectile(const FRotator& PlayerCameraRotation);
